@@ -86,3 +86,5 @@ Usage interne professionnel.
 
 ## 🤝 Contributeurs
 Mohamed Ali Jammaa
+Youness Manyani
+Mohawmad Dawood
